@@ -1,0 +1,21 @@
+{
+  "name": "women-safety-reporting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "firebase": "^11.2.0",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^5.0.0",
+    "sass": "^1.83.4"
+  }
+}
